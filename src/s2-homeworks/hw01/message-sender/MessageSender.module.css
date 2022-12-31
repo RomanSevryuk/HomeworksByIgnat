@@ -31,7 +31,7 @@
     position: absolute;
     width: 120px;
     height: 40px;
-margin-left: 1100px;
+    margin-left: 1100px;
     background: #0066cc;
     border-radius: 20px;
     border-color: #0066cc;
@@ -48,6 +48,7 @@ margin-left: 1100px;
 .button:hover {
 
 }
+
 .button:active {
 
 }

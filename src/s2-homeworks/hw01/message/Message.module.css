@@ -30,7 +30,8 @@
 .text:after {
     content: '';
     position: absolute;
-    left: 527px; bottom: 0px;
+    left: 527px;
+    bottom: 0px;
     border: 8px solid transparent;
     border-bottom: 8px solid rgb(0, 102, 204);
     border-left: 8px solid rgb(0, 102, 204);

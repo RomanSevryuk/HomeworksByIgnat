@@ -29,7 +29,8 @@
 .friendText:after {
     content: '';
     position: absolute;
-    left: -16px; bottom: 0px;
+    left: -16px;
+    bottom: 0px;
     border: 8px solid transparent;
     border-right: 8px solid rgb(245, 247, 251);
     border-bottom: 8px solid rgb(245, 247, 251);
