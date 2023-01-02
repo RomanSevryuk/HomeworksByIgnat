@@ -7,7 +7,7 @@
     position: relative;
     height: 520px;
     border-bottom: 2px solid #D9D9D9;
-    min-width: 125vh;
+    min-width: 1280px;
 }
 
 
@@ -19,5 +19,5 @@
     font-size: 22px;
     color: #000000;
     border-bottom: 2px solid #D9D9D9;
-    min-width: 125vh;
+    min-width: 1280px;
 }
