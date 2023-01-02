@@ -6,7 +6,7 @@
     padding: 50px;
     position: relative;
     height: 520px;
-    border: 2px solid #D9D9D9;
+    border-bottom: 2px solid #D9D9D9;
 }
 
 
@@ -17,4 +17,5 @@
     font-weight: 600;
     font-size: 22px;
     color: #000000;
+    border-bottom: 2px solid #D9D9D9;
 }
