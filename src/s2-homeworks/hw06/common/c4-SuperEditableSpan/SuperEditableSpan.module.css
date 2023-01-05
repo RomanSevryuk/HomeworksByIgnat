@@ -1,10 +1,15 @@
 .spanBlock {
+    display: flex;
 }
 
 .span {
+    margin-top: 3px;
+    margin-left: 20px;
 }
 
 .input {
+    width: 332px;
+    height: 36px;
 }
 
 .pen {
