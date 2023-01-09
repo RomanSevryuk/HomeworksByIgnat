@@ -1,23 +1,71 @@
 .item {
+    display: flex;
+    max-width: 705px;
+    border-bottom: 2px solid #E5E5E5;
+    height: 40px;
+    align-items: center;
 }
 
 .item:last-of-type {
+    border: none;
 }
 
 .users {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
 }
 
 .buttonsContainer {
+    display: flex;
+    gap: 10px;
+    margin-left: 200px;
 }
 
 .container {
 }
 
 .thead {
+    background: #E5E5E5;
+    max-width: 705px;
+    height: 36px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+
 }
 
 .nameCol {
+    padding-left: 20px;
 }
 
 .ageCol {
+    padding-left: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.ageCol1 {
+    position: absolute;
+    margin-left: 311px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
 }
