@@ -13,7 +13,12 @@ import {AppStoreType} from "../hw10/bll/store";
 * 4 - передать пропсы в SuperSelect
 * */
 
-const themes = [
+type themesType = {
+    id: number
+    value: string
+}
+
+const themes: Array<themesType> = [
     {id: 1, value: 'light'},
     {id: 2, value: 'blue'},
     {id: 3, value: 'dark'},
@@ -25,7 +30,7 @@ const HW12 = () => {
     const dispatch = useDispatch()
 
     const change = (id: number) => { // дописать функцию
-        dispatch(changeThemeId(id))
+        dispatch(changeThemeId(Number(id)))
     }
 
     useEffect(() => {
