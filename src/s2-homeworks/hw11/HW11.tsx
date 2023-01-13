@@ -40,7 +40,6 @@ function HW11() {
                             value={value1}
                             onChange={change}
                             valueLabelDisplay="auto"
-                            //style={{height: '5px'}}
                         />
                     </div>
                     <div className={s.wrapper}>
@@ -51,7 +50,6 @@ function HW11() {
                             value={[value1, value2]}
                             onChange={change}
                             valueLabelDisplay="auto"
-                            //style={{height: '5px'}}
                         />
                         <span id={'hw11-value-2'} className={s.number}>{value2}</span>
 

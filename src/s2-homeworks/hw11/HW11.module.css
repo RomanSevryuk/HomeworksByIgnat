@@ -10,13 +10,10 @@
     font-weight: 600;
     font-size: 16px;
     line-height: 20px;
-
-    color: #000000;
 }
 
 .number {
-    flex-direction: inherit;
-    margin-top: -18px;
+    min-width: 30px;
+    margin-top: 5px;
     margin-left: 20px;
-    margin-right: 20px;
 }
