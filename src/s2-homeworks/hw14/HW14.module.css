@@ -3,5 +3,10 @@
 }
 
 .loading {
-
+    margin-left: 170px;
+    color: #4D4D4D;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 14px;
 }
