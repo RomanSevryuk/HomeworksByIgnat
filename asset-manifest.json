@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HomeworksByIgnat/static/css/main.bd2e902f.css",
-    "main.js": "/HomeworksByIgnat/static/js/main.63f60b15.js",
+    "main.css": "/HomeworksByIgnat/static/css/main.18954acb.css",
+    "main.js": "/HomeworksByIgnat/static/js/main.c2ed0946.js",
     "static/js/496.ba277c17.chunk.js": "/HomeworksByIgnat/static/js/496.ba277c17.chunk.js",
     "static/media/avatar.png": "/HomeworksByIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/HomeworksByIgnat/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/checked.svg": "/HomeworksByIgnat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/HomeworksByIgnat/index.html",
     "static/media/burger.svg": "/HomeworksByIgnat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.bd2e902f.css.map": "/HomeworksByIgnat/static/css/main.bd2e902f.css.map",
-    "main.63f60b15.js.map": "/HomeworksByIgnat/static/js/main.63f60b15.js.map",
+    "static/media/icon_noneSorted.svg": "/HomeworksByIgnat/static/media/icon_noneSorted.0b8947ddfe87b96a8d0f7c6804babd5a.svg",
+    "static/media/icon_DOWN_filled.svg": "/HomeworksByIgnat/static/media/icon_DOWN_filled.badc22573e3ee2f89b0a718229895407.svg",
+    "static/media/icon_UP_filled.svg": "/HomeworksByIgnat/static/media/icon_UP_filled.9c0b0728bb3353da4e79560fa74fd7c8.svg",
+    "main.18954acb.css.map": "/HomeworksByIgnat/static/css/main.18954acb.css.map",
+    "main.c2ed0946.js.map": "/HomeworksByIgnat/static/js/main.c2ed0946.js.map",
     "496.ba277c17.chunk.js.map": "/HomeworksByIgnat/static/js/496.ba277c17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd2e902f.css",
-    "static/js/main.63f60b15.js"
+    "static/css/main.18954acb.css",
+    "static/js/main.c2ed0946.js"
   ]
 }
