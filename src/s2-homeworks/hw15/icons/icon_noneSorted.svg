@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 10" height="12" width="12" y="0">
+    <svg viewBox="0 0 8 5" height="5" width="8" y="0">
+        <g transform="matrix(1 0 0 1 0 0)">
+            <path d="M4 0L7.4641 4.5H0.535898L4 0Z" fill="#ADABAC"/>
+        </g>
+    </svg>
+    <svg viewBox="0 0 8 5" height="5" width="8" y="5">
+        <g transform="matrix(1 0 0 1 0 0)">
+            <path d="M4 5L0.535898 0.5L7.4641 0.5L4 5Z" fill="#ADABAC"/>
+        </g>
+    </svg>
+</svg>
