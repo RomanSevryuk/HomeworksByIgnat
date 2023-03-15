@@ -56,9 +56,12 @@ const HW15 = () => {
                 if (res) {
                     setTechs(res.data.techs)
                     setTotalCount(res.data.totalCount)
-                    setLoading(false)
+                    //setLoading(false)
                 }
                 // сохранить пришедшие данные
+            })
+            .finally(()=> {
+                setLoading(false)
             })
     }
 
